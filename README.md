@@ -25,3 +25,4 @@ type access.log | python mapper.py | sort | python reducer.py
 1. 
    ```powershell
    python generar_logs.py
+   type access.log | python mapper.py | sort | python reducer.py
